@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[881],{63891:e=>{e.exports=JSON.parse('{"sourceUrl":"https://github.com/evaera/moonwave/blob/master","baseUrl":"/FastCast-Grenade/","classOrder":[],"apiCategories":[]}')}}]);

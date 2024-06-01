@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[881],{63891:s=>{s.exports=JSON.parse('{"sourceUrl":"https://github.com/Frr-z/FastCast-Grenade/blob/master","baseUrl":"/FastCast-Grenade/","classOrder":[],"apiCategories":[]}')}}]);
