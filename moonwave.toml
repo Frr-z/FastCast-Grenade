@@ -1,0 +1,29 @@
+title = "FastCast Grenade"  # From Git
+gitRepoUrl = "https://github.com/evaera/moonwave" # From Git
+
+gitSourceBranch = "master"
+changelog = true
+classOrder = []
+
+[docusaurus]
+onBrokenLinks = "throw"
+onBrokenMarkdownLinks = "warn"
+favicon = "https://media.istockphoto.com/id/183305429/photo/green-hand-grenade-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=m6IPM7kgW2274HBwwd9oQglMDI7CBY0bH7e3El1ZijI="
+
+# From git:
+organizationName = "Frr_z"
+projectName = "FastCast Grenade"
+url = "https://frr-z.github.io"
+baseUrl = "/FastCast-Grenade"
+tagline = "Grenade using FastCast"
+
+[footer]
+style = "dark"
+copyright = "Copyright © 2024 Frr_z. Built with Moonwave and Docusaurus"
+
+[[footer.links]]
+title = "Exaples"
+
+[[footer.links.items]]
+label = "example"
+href = "https://example.com/"

@@ -48,7 +48,7 @@ function GrenadeModule.new(Setting)
 	local OtherSettings = Setting.OtherSettings
 
 	-- Initialize tool and its properties
-	self.Tool = OtherSettings.Instance
+	self.Tool = OtherSettings.ToolInstance:Clone()
 	self.Tool.Parent = OtherSettings.SpawnWhenCreatedOn
 	self.Tool.Name = OtherSettings.ToolName or self.Tool.Name
 
